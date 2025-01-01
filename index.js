@@ -1,4 +1,4 @@
-require('dotenv').config();
+/*require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');   
@@ -56,3 +56,4 @@ app.listen(PORT, async () => {
         console.error('Error establishing Ngrok tunnel:', error.message);
     }
 });
+*/
